@@ -1,0 +1,15 @@
+D:\C#\DZ\exam\exam\bin\Debug\net7.0\exam.exe
+D:\C#\DZ\exam\exam\bin\Debug\net7.0\exam.deps.json
+D:\C#\DZ\exam\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+D:\C#\DZ\exam\exam\bin\Debug\net7.0\exam.dll
+D:\C#\DZ\exam\exam\bin\Debug\net7.0\exam.pdb
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.csproj.AssemblyReference.cache
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.dll
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\refint\exam.dll
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.pdb
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+D:\C#\DZ\exam\exam\obj\Debug\net7.0\ref\exam.dll
